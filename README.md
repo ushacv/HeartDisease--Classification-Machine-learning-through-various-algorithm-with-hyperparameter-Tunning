@@ -1,4 +1,4 @@
-# Heart Disease - classification (Machine learning through various algorithm and Hyperparameter Tunning  
+# Heart Disease Detection 
 
 
 
