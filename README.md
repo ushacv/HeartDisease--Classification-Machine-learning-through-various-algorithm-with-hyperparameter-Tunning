@@ -1,5 +1,5 @@
-# HeartDisease-
-Heart Disease - classification (Machine learning through various algorithm)
+# Heart Disease - classification (Machine learning through various algorithm and Hyperparameter Tunning  
+
 
 
 
